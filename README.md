@@ -24,5 +24,8 @@
 [![portfolio](https://img.shields.io/badge/EMRE-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/tameremre)
 [![portfolio](https://img.shields.io/badge/MUSTAFO-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/MrAspiringDev)
 [![portfolio](https://img.shields.io/badge/SECIL-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/seciltamti)
+[![portfolio](https://img.shields.io/badge/EMIRHAN-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/EmirhanMert)
+
+
 
 
